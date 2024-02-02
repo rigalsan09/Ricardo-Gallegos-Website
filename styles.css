@@ -1,15 +1,18 @@
 body {
-    background-color: white;
+  background-color: white;
 }
 
-.dark-red {
-    background-color: rgb(102, 16, 16);
+#header {
+  background-color: #e7ebef;
 }
 
-#testtest {
-    background-color: #E5E5EC;
+#headingGroup {
+  font-size: 48px;
+  font-weight: 300;
+  padding-bottom: 2rem;
 }
 
-#headingGroup h1 {
-    font-size: 1rem;
+h1 {
+  font-size: 4rem;
+  font-weight: 250;
 }
